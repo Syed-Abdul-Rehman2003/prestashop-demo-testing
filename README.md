@@ -123,4 +123,4 @@ The team delivered:
 #### Steps to Run Automation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/prestashop-demo-testing.git
+   git clone https://github.com/Syed-Abdul_Rehman2003/prestashop-demo-testing.git
